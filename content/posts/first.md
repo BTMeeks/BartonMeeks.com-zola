@@ -1,8 +1,6 @@
 +++
 title = "First test posting"
 date = 2026-07-06
-[taxonomies]
-tags= ["test"]
 +++
 
 This is a first test posting.
