@@ -1,5 +1,5 @@
 +++
-title = "Typography"
+title = "Example: Typography and Markdown"
 description = "You can include post descriptions"
 date = 2023-01-16
 [taxonomies]
