@@ -15,6 +15,6 @@ website exists.
 
 ## Tech details
 
-This website was created using the [Zola](https://getzola.org) static site generator, with the Austere theme. It is hosted at Netlify and the source code is on my Github.
+This website was created using the [Zola](https://getzola.org) static site generator, with the Austere theme. It is hosted for free at Netlify and the source code is on my Github.
 
 More often than not, the contentis written in markdown using the Vim editor.
